@@ -28,7 +28,7 @@ from strings import get_string
 
 
 YUMI_PICS = [
-"https://files.catbox.moe/xhpqtp.jpg",
+"https://graph.org/file/c8a5520fc8ddbf43fae57-ed92e7a14fed3c6273.jpg",
 
 ]
 
